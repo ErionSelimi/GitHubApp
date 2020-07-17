@@ -10,7 +10,7 @@ namespace GitHubConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("add text again revert");
+            Console.WriteLine("add text again");
             Console.ReadLine();
         }
     }
