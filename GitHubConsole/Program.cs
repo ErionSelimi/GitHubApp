@@ -10,7 +10,7 @@ namespace GitHubConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi");
+            Console.WriteLine("add text");
             Console.ReadLine();
         }
     }
