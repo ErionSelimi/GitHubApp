@@ -11,6 +11,7 @@ namespace GitHubConsole
         static void Main(string[] args)
         {
             Console.WriteLine("add text again  ignore");
+            Console.WriteLine("Another Line");
             Console.ReadLine();
         }
     }
