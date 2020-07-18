@@ -9,6 +9,6 @@ namespace GitHubConsole
     public class Person
     {
         public int idPerson { get; set; }
-
+        public string Name { get; set; }
     }
 }
