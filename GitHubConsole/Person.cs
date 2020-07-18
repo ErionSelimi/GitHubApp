@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitHubConsole
 {
-    class Person
+    public class Person
     {
+        public int idPerson { get; set; }
+
     }
 }
