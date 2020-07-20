@@ -11,6 +11,6 @@ namespace GitHubConsole
         public int idPerson { get; set; }
         public string Name { get; set; }
 
-        public int NoCommit { get; set; }
+        public int No { get; set; }
     }
 }
