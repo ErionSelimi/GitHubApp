@@ -339,4 +339,5 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
+GitHubApp/GitHubConsole/Person.cs
 GitHubConsole/Person.cs
